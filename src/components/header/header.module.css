@@ -1,0 +1,11 @@
+.Header {
+    grid-area: h;
+    background-color: rgb(42, 114, 165);
+}
+
+.Header img {
+    width: 55px;
+    height: 55px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
